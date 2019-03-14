@@ -32,7 +32,9 @@ Click ```Create```.
 
 It make take a few minutes to spin up the service.
 
-Take note of the URL and API token, we'll need that later in the workshop.
+Take note of the URL and API token (your credentials), we'll need that later in the workshop.
+
+Once you've created your Watson Assistant service, let's chat about what it is and what you can do with it. 
 
 ### Speech to Text & Text to Speech
 
@@ -46,9 +48,11 @@ Click ```Create```.
 
 It make take a few minutes to spin up the service.
 
-Take note of the URL and API token, we'll need that later in the workshop.
+Take note of the URL and API token (your credentials), we'll need that later in the workshop.
 
 Repeat this for the Text to Speech service.
+
+Once you've created your Speech to Text and Text to Speech services, let's chat about what they are and what you can do with them.
 
 ## Brief Unity Overview
 
