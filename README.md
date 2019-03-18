@@ -6,6 +6,13 @@ You will also need an IDE to write C#. You can select Visual Studio to be includ
 
 Between the hands-on portions of this workshop, we'll go into a little more detail about each of the services, what you can do with them after the workshop. If at any point you feel like working ahead, please wait to ask questions until we are working on that particular section.
 
+**Agenda**
+* Watson Services
+* Setting Up Project & Watson SDK for Unity
+* Scripting in Unity
+
+Depending on the pace of the workshop, we may not get through everything so be sure to star/bookmark this repo to continue at home.
+
 ## Setting up your IBM Cloud Account
 
 During this workshop you will be able to create services under the free, lite plan. You'll also be able to keep it long after this workshop is over!
@@ -62,7 +69,17 @@ Depending on what you want to do in the future with this particular project, tak
 
 The free asset I recommend is this: https://assetstore.unity.com/packages/3d/characters/robots/cyber-soldier-52064 (note this is rigged by not animated).
 
+## Create a Project in Unity
+
+Start Unity and choose the 3D project template. This will setup your project with the correct initial game objects including a light source and a main camera. 
+
+## Adding the Watson Unity SDK to Your Unity Project
+
+Clone or Download the Watson SDK for Unity. You can clone it directly to your Unity project or drag and drop it into the Unity editor.
+
 ## Brief C# Overview
+
+Even though you've included the SDK into your project, you will need to include it as a namespace. 
 
 ## How to incorporate AR into this project?
 
