@@ -13,6 +13,8 @@ Between the hands-on portions of this workshop, we'll go into a little more deta
 
 Depending on the pace of the workshop, we may not get through everything so be sure to star/bookmark this repo to continue at home.
 
+This workshop is based on this pattern: https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
+
 ## Setting up your IBM Cloud Account
 
 During this workshop you will be able to create services under the free, lite plan. You'll also be able to keep it long after this workshop is over!
@@ -77,7 +79,7 @@ Start Unity and choose the 3D project template. This will setup your project wit
 
 Clone or Download the Watson SDK for Unity. You can clone it directly to your Unity project or drag and drop it into the Unity editor.
 
-## Brief C# Overview
+## Brief C# Overview (Scripting in Unity)
 
 Even though you've included the SDK into your project, you will need to include it as a namespace. 
 
@@ -91,3 +93,6 @@ You have a couple options to choose from when extending this workshop.
 
 Vuforia or AR Foundations are your two main options, while you could also natively target ARKit and ARCore as well, depending on your device. If you want to see an AR example working on your laptop using your integrated webcam, Vuforia will be the best place to start.
 
+# More resources
+https://developer.ibm.com/industries/gaming/
+https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
