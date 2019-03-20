@@ -45,6 +45,8 @@ Take note of the URL and API token (your credentials), we'll need that later in 
 
 Once you've created your Watson Assistant service, let's chat about what it is and what you can do with it. 
 
+Import this: https://github.com/IBM/Watson-Unity-ARKit/blob/master/data/voiceActivatedMotionSimple.json
+
 #### Reference Docs
 https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
 
