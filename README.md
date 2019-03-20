@@ -84,11 +84,17 @@ Start Unity and choose the 3D project template. This will setup your project wit
 
 ## Adding the Watson Unity SDK to Your Unity Project
 
-Clone or Download the Watson SDK for Unity. You can clone it directly to your Unity project or drag and drop it into the Unity editor.
+Clone or Download the [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk). You can clone it directly to your Unity project or drag and drop it into the Unity editor.
 
 ## Brief C# Overview (Scripting in Unity)
 
 Even though you've included the SDK into your project, you will need to include it as a namespace. 
+
+```
+using IBM.Watson.DeveloperCloud.Services.Assistant.v1;
+using IBM.Watson.DeveloperCloud.Services.SpeechToText.v1;
+using IBM.Watson.DeveloperCloud.Services.TextToSpeech.v1;
+```
 
 Each of our services will need to be authenticated. Here is an example of what the Assistant service looks like in a gist: https://gist.github.com/akeller/2d7b8913308401495afed257a74a7f28
 
