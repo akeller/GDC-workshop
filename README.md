@@ -45,6 +45,9 @@ Take note of the URL and API token (your credentials), we'll need that later in 
 
 Once you've created your Watson Assistant service, let's chat about what it is and what you can do with it. 
 
+#### Reference Docs
+https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
+
 ### Speech to Text & Text to Speech
 
 Click ```Catalog``` from the upper menu. Select ```AI``` from the menu on the left.
@@ -62,6 +65,10 @@ Take note of the URL and API token (your credentials), we'll need that later in 
 Repeat this for the Text to Speech service.
 
 Once you've created your Speech to Text and Text to Speech services, let's chat about what they are and what you can do with them.
+
+#### API Reference Docs
+https://cloud.ibm.com/apidocs/speech-to-text
+https://cloud.ibm.com/apidocs/text-to-speech
 
 ## Brief Unity Overview
 
