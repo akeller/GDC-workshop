@@ -83,7 +83,9 @@ Clone or Download the Watson SDK for Unity. You can clone it directly to your Un
 
 Even though you've included the SDK into your project, you will need to include it as a namespace. 
 
-## How to incorporate AR into this project?
+Each of our services will need to be authenticated. Here is an example of what the Assistant service looks like in a gist: https://gist.github.com/akeller/2d7b8913308401495afed257a74a7f28
+
+## How do I incorporate AR into this project?
 
 If time permits, we can take a look at what this might look like in AR.
 
