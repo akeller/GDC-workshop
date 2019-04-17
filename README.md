@@ -1,5 +1,7 @@
 # Hands On Watson SDK for Unity Workshop
 
+**Not tested for Watson SDK for Unity version 3+, please use 2.x until this content is updated.**
+
 Please arrive with [Unity](https://unity3d.com/) installed on your laptop. The personal license will work just fine.
 
 You will also need an IDE to write C#. You can select Visual Studio to be included in the install of Unity.
